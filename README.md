@@ -45,6 +45,3 @@ This project demonstrates practical implementation of **core Java concepts** suc
 - **Interface:** Console-based (Text UI)  
 - **Data Structure:** 3D Array for managing seats across multiple routes and genders  
 
----
-
-## 📂 Project Structure
